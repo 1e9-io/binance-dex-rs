@@ -1,2 +1,7 @@
 # binance-dex-rs
-Binace DEX rust client
+
+Binance DEX rust client - https://www.binace.org
+
+# Usage 
+
+See `./examples/*`
