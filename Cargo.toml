@@ -1,7 +1,13 @@
 [package]
 name = "binance-dex-rs"
+description = "Rust client crate for the binance dex - https://www.binance.org"
 version = "0.1.0"
-authors = [""]
+authors = ["utx0 <utx0@protonmail.com>", "Mikhail Babenko <misha-babenko@yandex.ru>"]
+repository = "https://github.com/1e9-io/binance-dex-rs"
+readme = "README.md"
+license-file = "LICENSE.md"
+keywords = ["binance", "dex", "api", "websockets", "crypto", "bnb"]
+categories = ["web-programming::http-client", "web-programming::websocket"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
